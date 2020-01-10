@@ -1,6 +1,6 @@
 # Begin basic Hello World! app
 
-[![Begin build status](https://buildstatus.begin.app/wander-qka/status.svg)](https://begin.com)
+[![Begin build status](https://buildstatus.begin.app/wander-qka/status.svg)](https://begin.com) [![Greenkeeper badge](https://badges.greenkeeper.io/ljharb/tc39-ipr-check.svg)](https://greenkeeper.io/)
 
 ## Getting started
 - Start the local dev server: `npm start`
